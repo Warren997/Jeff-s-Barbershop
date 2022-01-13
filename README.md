@@ -1,5 +1,5 @@
 # Jeff-s-Barbershop
-I write this with html and vanilla css only when I'm new at web development
+I write this with html and vanilla css only when I'm new at web development\
 For live view please download this repo and open the index file
 
 ![](img/thumbnail.png "This is Jeff's Barbershop")
